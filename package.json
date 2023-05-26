@@ -27,7 +27,6 @@
     "create:docs": " skuba node examples/simple/createSchema.ts && redocly build-docs examples/simple/openapi.yml --output=examples/simple/redoc-static.html",
     "format": "skuba format",
     "lint": "skuba lint",
-    "prepare": "yarn build",
     "release": "yarn build && npm publish",
     "test": "skuba test",
     "test:ci": "skuba test --coverage",

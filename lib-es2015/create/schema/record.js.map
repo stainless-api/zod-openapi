@@ -1,0 +1,1 @@
+{"version":3,"file":"record.js","sourceRoot":"","sources":["../../../src/create/schema/record.ts"],"names":[],"mappings":"AAIA,OAAO,EAAoB,iBAAiB,EAAE,MAAM,GAAG,CAAC;AAExD,MAAM,CAAC,MAAM,kBAAkB,GAAG,CAChC,SAA8B,EAC9B,KAAkB,EACE,EAAE,CAAC,CAAC;IACxB,IAAI,EAAE,QAAQ;IACd,oBAAoB,EAAE,iBAAiB,CACrC,SAAS,CAAC,WAAyB,EACnC,KAAK,EACL,CAAC,cAAc,CAAC,CACjB;CACF,CAAC,CAAC"}

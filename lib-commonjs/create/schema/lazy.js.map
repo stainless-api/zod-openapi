@@ -1,0 +1,1 @@
+{"version":3,"file":"lazy.js","sourceRoot":"","sources":["../../../src/create/schema/lazy.ts"],"names":[],"mappings":";;;AAIA,wBAAwD;AAEjD,MAAM,gBAAgB,GAAG,CAC9B,OAAqB,EACrB,KAAkB,EAC0B,EAAE;IAC9C,MAAM,WAAW,GAAG,OAAO,CAAC,IAAI,CAAC,MAAM,EAAa,CAAC;IACrD,OAAO,IAAA,oBAAiB,EAAC,WAAW,EAAE,KAAK,EAAE,CAAC,aAAa,CAAC,CAAC,CAAC;AAChE,CAAC,CAAC;AANW,QAAA,gBAAgB,oBAM3B"}

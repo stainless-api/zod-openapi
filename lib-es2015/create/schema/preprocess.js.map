@@ -1,0 +1,1 @@
+{"version":3,"file":"preprocess.js","sourceRoot":"","sources":["../../../src/create/schema/preprocess.ts"],"names":[],"mappings":"AAIA,OAAO,EAAoB,iBAAiB,EAAE,MAAM,GAAG,CAAC;AAExD,MAAM,CAAC,MAAM,sBAAsB,GAAG,CACpC,aAAwC,EACxC,KAAkB,EAC0B,EAAE,CAC9C,iBAAiB,CAAC,aAAa,CAAC,IAAI,CAAC,MAAiB,EAAE,KAAK,EAAE;IAC7D,mBAAmB;CACpB,CAAC,CAAC"}
