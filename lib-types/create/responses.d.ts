@@ -1,0 +1,10 @@
+import type { AnyZodObject, ZodType } from 'zod';
+import type { oas30, oas31 } from '../openapi3-ts/dist';
+import { type ComponentsObject } from './components';
+import type { ZodOpenApiResponseObject, ZodOpenApiResponsesObject } from './document';
+export declare const createResponseHeaders: (responseHeaders: oas31.HeadersObject | oas30.HeadersObject | AnyZodObject | undefined, components: ComponentsObject) => oas31.ResponseObject['headers'];
+export declare const createHeaderOrRef: (schema: ZodType, components: ComponentsObject) => oas31.BaseParameterObject | oas31.ReferenceObject;
+export declare const createBaseHeader: (schema: ZodType, components: ComponentsObject) => oas31.BaseParameterObject;
+export declare const createComponentHeaderRef: (ref: string) => string;
+export declare const createResponse: (responseObject: ZodOpenApiResponseObject | oas31.ReferenceObject, components: ComponentsObject, subpath: string[]) => oas31.ResponseObject | oas31.ReferenceObject;
+export declare const createResponses: (responsesObject: ZodOpenApiResponsesObject, components: ComponentsObject, subpath: string[]) => oas31.ResponsesObject;
